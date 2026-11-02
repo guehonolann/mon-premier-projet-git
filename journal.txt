@@ -1,3 +1,5 @@
 Premier jour du journal
 Deuxième entrée : apprentissage des commits.
 Troisième entrée : maîtrise des bases de Git.
+Ligne de test pour git diff
+Test de synchronisation vers GitHub
